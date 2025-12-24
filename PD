@@ -1,0 +1,8 @@
+{
+  "message": "Item created successfully",
+  "item": {
+    "name": "Phone",
+    "price": 500,
+    "description": "FastAPI test item"
+  }
+}
